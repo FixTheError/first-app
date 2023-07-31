@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\app"
   ],
+  "SelectedNode": "\\src\\app\\housing.service.ts",
   "PreviewInSolutionExplorer": false
 }
